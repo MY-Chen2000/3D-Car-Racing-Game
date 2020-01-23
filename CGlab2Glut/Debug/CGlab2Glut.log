@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\vscode\cglab2glut\cglab2glut\main.cpp(313): warning C4018: “<”: 有符号/无符号不匹配
+d:\vscode\cglab2glut\cglab2glut\main.cpp(335): warning C4018: “<”: 有符号/无符号不匹配
+d:\vscode\cglab2glut\cglab2glut\main.cpp(379): warning C4018: “<”: 有符号/无符号不匹配
+d:\vscode\cglab2glut\cglab2glut\main.cpp(1397): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  CGlab2Glut.vcxproj -> D:\vscode\CGlab2Glut\Debug\CGlab2Glut.exe

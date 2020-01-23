@@ -1,0 +1,25 @@
+﻿main.obj : error LNK2001: 无法解析的外部符号 ___glewEnableVertexAttribArray
+main.obj : error LNK2001: 无法解析的外部符号 ___glewBindVertexArray
+main.obj : error LNK2001: 无法解析的外部符号 ___glewUseProgram
+main.obj : error LNK2001: 无法解析的外部符号 ___glewVertexAttribPointer
+main.obj : error LNK2001: 无法解析的外部符号 ___glewGetShaderiv
+main.obj : error LNK2001: 无法解析的外部符号 ___glewCompileShader
+main.obj : error LNK2001: 无法解析的外部符号 ___glewCreateShader
+main.obj : error LNK2001: 无法解析的外部符号 ___glewBindBuffer
+main.obj : error LNK2001: 无法解析的外部符号 ___glewCreateProgram
+main.obj : error LNK2001: 无法解析的外部符号 ___glewGetShaderInfoLog
+main.obj : error LNK2001: 无法解析的外部符号 ___glewGetProgramiv
+main.obj : error LNK2001: 无法解析的外部符号 _glewGetErrorString@4
+main.obj : error LNK2001: 无法解析的外部符号 ___glewGetUniformLocation
+main.obj : error LNK2001: 无法解析的外部符号 ___glewBufferData
+main.obj : error LNK2001: 无法解析的外部符号 ___glewAttachShader
+main.obj : error LNK2001: 无法解析的外部符号 ___glewShaderSource
+main.obj : error LNK2001: 无法解析的外部符号 ___glewGenVertexArrays
+main.obj : error LNK2001: 无法解析的外部符号 ___glewDisableVertexAttribArray
+main.obj : error LNK2001: 无法解析的外部符号 ___glewUniformMatrix4fv
+main.obj : error LNK2001: 无法解析的外部符号 ___glewGetProgramInfoLog
+main.obj : error LNK2001: 无法解析的外部符号 ___glewGenBuffers
+main.obj : error LNK2001: 无法解析的外部符号 ___glewDeleteShader
+main.obj : error LNK2001: 无法解析的外部符号 ___glewLinkProgram
+main.obj : error LNK2001: 无法解析的外部符号 _glewInit@0
+D:\vscode\CGlab2Glut\Release\CGlab2Glut.exe : fatal error LNK1120: 24 个无法解析的外部命令
